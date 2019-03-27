@@ -1,0 +1,18 @@
+{
+  "name": "lodown-benyoss",
+  "version": "1.0.0",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "instanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenYoss/lodown.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
